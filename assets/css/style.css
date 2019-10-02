@@ -1,0 +1,38 @@
+html,body {
+    font-family: 'Karla', sans-serif;
+    padding: 1em 2em;
+    font-size: 18px;
+    background: #fff;
+    color: #222
+  }
+  
+  h1,h2 {
+    margin: 0.4em 0;
+  }
+  h1 { 
+    font-size: 2em; 
+    font-weight: 600;}
+  h2 {
+    color: #888;
+    font-size: 1.5em;
+    font-weight: 200;
+  }
+  a, a:active, a:link {
+      text-decoration-color: #888;
+      color: #888;
+  }
+  a:hover, a:visited:hover{
+      color: #eee;
+      text-decoration-color: #eee;
+  }
+  a:visited {
+     color: #888; 
+     text-decoration-color: #888;
+  }
+  img {
+      max-width: 500px;
+      border: 1px solid #222;
+  }
+  img.small {
+      max-width: 150px;
+  }
