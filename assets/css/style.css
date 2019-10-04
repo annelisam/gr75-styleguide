@@ -42,6 +42,7 @@ html,body {
 /* style guide styling */
     img {
         max-width: 650px;
+        max-height: 500px;
         border: 1px solid #222;
     }
     img.small {
