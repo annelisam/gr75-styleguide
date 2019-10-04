@@ -2,7 +2,7 @@ html,body {
     font-family: 'Karla', sans-serif;
     padding: 1em 2em;
     font-size: 18px;
-    background: #fff;
+    background: #f8f8f8;
     color: #222
   }
   
@@ -11,7 +11,12 @@ html,body {
   }
   h1 { 
     font-size: 2em; 
-    font-weight: 600;}
+    font-weight: 600;
+}
+h1.title {
+    font-size: 4em;
+    font-weight: 600;
+}
   h2 {
     color: #888;
     font-size: 1.5em;
