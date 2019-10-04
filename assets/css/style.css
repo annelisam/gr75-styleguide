@@ -12,23 +12,26 @@ html,body {
   h1 { 
     font-size: 2em; 
     font-weight: 600;
+    letter-spacing: .10em;
 }
 h1.title {
     font-size: 4em;
     font-weight: 600;
+    letter-spacing: .10em;
 }
   h2 {
     color: #888;
     font-size: 1.5em;
     font-weight: 200;
+    letter-spacing: .05em;
   }
   a, a:active, a:link {
       text-decoration-color: #888;
       color: #888;
   }
   a:hover, a:visited:hover{
-      color: #eee;
-      text-decoration-color: #eee;
+      color: #f4dd6c;
+      text-decoration-color:#f4dd6c;
   }
   a:visited {
      color: #888; 
